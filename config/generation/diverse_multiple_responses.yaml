@@ -1,0 +1,6 @@
+num_return_sequences: 10
+repetition_penalty: 1.1
+do_sample: True
+temperature: 1.5
+max_new_tokens: 512
+batch_size: 4

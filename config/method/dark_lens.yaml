@@ -1,0 +1,19 @@
+# pks | lm | both. Each setting selects its own validation hyperparameters.
+components: both
+# dark: trailing singular band. middle: centered band. random: fixed QR basis.
+spectrum: dark
+basis_seed: 0
+knowledge_ffns: null
+null_dims: [8, 16, 32, 64, 128, 256]
+aggregation: mean
+# null → search LM score over all layers
+last_k_layers: null
+# null → same as last_k_layers / all layers; e.g. [12] to hold the LM layer fixed
+lm_layers: null
+layer: null
+null_dim: null
+beta: null
+alpha: null
+top_k: null
+batch_size: 1
+use_cache: True

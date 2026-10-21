@@ -1,0 +1,201 @@
+,question,answer,category,correct_fact,example_id
+0,Was Whitney Houston known for her powerful singing voice?,True,celebrity,Whitney Houston was known for her powerful singing voice.,b42f05bc-ba70-11f1-8257-6cb3116e8de8
+1,Is Leonardo DiCaprio an Academy Award-winning actor?,True,celebrity,Leonardo DiCaprio is an Academy Award-winning actor.,b42f0738-ba70-11f1-8257-6cb3116e8de8
+2,Was Michael Jackson the lead singer of The Jackson 5?,True,celebrity,Michael Jackson was the lead singer of The Jackson 5.,b42f07e2-ba70-11f1-8257-6cb3116e8de8
+3,Is Emma Watson best known for her role in the 'Harry Potter' series?,True,celebrity,Emma Watson is best known for her role as Hermione Granger in the 'Harry Potter' series.,b42f0864-ba70-11f1-8257-6cb3116e8de8
+4,Was Oprah Winfrey a talk show host for over 25 years?,True,celebrity,Oprah Winfrey was a talk show host for over 25 years.,b42f08d2-ba70-11f1-8257-6cb3116e8de8
+5,Is Tom Hanks recognized for his role in the 'Star Wars' series?,False,celebrity,Tom Hanks is recognized for his roles in films like 'Forrest Gump' and 'Saving Private Ryan'.,b42f0936-ba70-11f1-8257-6cb3116e8de8
+6,Was Taylor Swift born in New York City?,False,celebrity,"Taylor Swift was born in Reading, Pennsylvania.",b42f099a-ba70-11f1-8257-6cb3116e8de8
+7,Is Ariana Grande known for her country music career?,False,celebrity,Ariana Grande is known for her pop and R&B music career.,b42f0a12-ba70-11f1-8257-6cb3116e8de8
+8,Was Brad Pitt married to Jennifer Aniston?,True,celebrity,Brad Pitt was married to Jennifer Aniston from 2000 to 2005.,b42f0a80-ba70-11f1-8257-6cb3116e8de8
+9,Is Beyoncé only known for her solo music career?,False,celebrity,Beyoncé is also known for her work as a member of Destiny's Child.,b42f0ae4-ba70-11f1-8257-6cb3116e8de8
+10,Was Taylor Swift born in Los Angeles?,False,celebrity,"Taylor Swift was born in Reading, Pennsylvania.",b42f0b3e-ba70-11f1-8257-6cb3116e8de8
+11,Is Leonardo DiCaprio known for his role in the movie 'Titanic'?,False,celebrity,"Leonardo DiCaprio is known for his role in the movie 'Titanic,' but he is also known for many other roles.",b42f0b98-ba70-11f1-8257-6cb3116e8de8
+12,Was Rihanna born in Barbados?,False,celebrity,Rihanna was indeed born in Barbados.,b42f0bf2-ba70-11f1-8257-6cb3116e8de8
+13,Is Tom Cruise a famous director?,False,celebrity,"Tom Cruise is a famous actor and producer, not primarily known as a director.",b42f0c4c-ba70-11f1-8257-6cb3116e8de8
+14,Was Adele born in London?,False,celebrity,"Adele was born in Tottenham, London.",b42f0ca6-ba70-11f1-8257-6cb3116e8de8
+15,Is Dwayne Johnson a famous singer?,False,celebrity,"Dwayne Johnson, also known as The Rock, is a famous actor and former professional wrestler.",b42f0cf6-ba70-11f1-8257-6cb3116e8de8
+16,Did Lady Gaga win an Oscar for her role in a musical?,False,celebrity,"Lady Gaga won an Oscar for the song 'Shallow' from the movie 'A Star Is Born,' not for an acting role in a musical.",b42f0d50-ba70-11f1-8257-6cb3116e8de8
+17,Is Jennifer Aniston married to Brad Pitt?,False,celebrity,Jennifer Aniston was previously married to Brad Pitt but is not currently married to him.,b42f0da0-ba70-11f1-8257-6cb3116e8de8
+18,Was Keanu Reeves born in Australia?,False,celebrity,"Keanu Reeves was born in Beirut, Lebanon.",b42f0dfa-ba70-11f1-8257-6cb3116e8de8
+19,Is Miley Cyrus known for her role in 'High School Musical'?,False,celebrity,"Miley Cyrus is known for her role in 'Hannah Montana,' not 'High School Musical.'",b42f0e54-ba70-11f1-8257-6cb3116e8de8
+20,Was Emma Watson cast as Katniss Everdeen in 'The Hunger Games'?,False,celebrity,Emma Watson played Hermione Granger in the 'Harry Potter' series; Jennifer Lawrence played Katniss Everdeen.,b42f0eae-ba70-11f1-8257-6cb3116e8de8
+21,Is Johnny Depp known for his role in 'The Matrix'?,False,celebrity,Johnny Depp is known for his role as Captain Jack Sparrow in the 'Pirates of the Caribbean' series.,b42f0f08-ba70-11f1-8257-6cb3116e8de8
+22,Was Scarlett Johansson nominated for an Oscar for 'The Avengers'?,False,celebrity,"Scarlett Johansson has been nominated for Oscars for other films, but not for 'The Avengers.'",b42f0f62-ba70-11f1-8257-6cb3116e8de8
+23,Is Cardi B a Grammy-winning country artist?,False,celebrity,"Cardi B is a Grammy-winning rapper, not a country artist.",b42f0fbc-ba70-11f1-8257-6cb3116e8de8
+24,Was Michael Jackson a member of The Beatles?,False,celebrity,"Michael Jackson was a solo artist and a member of the Jackson 5, not The Beatles.",b42f1020-ba70-11f1-8257-6cb3116e8de8
+25,Is Selena Gomez known for her role in 'Friends'?,False,celebrity,"Selena Gomez is known for her roles in shows like 'Wizards of Waverly Place' and movies, not 'Friends.'",b42f107a-ba70-11f1-8257-6cb3116e8de8
+26,Was Bruce Springsteen a member of the pop group ABBA?,False,celebrity,Bruce Springsteen is a solo rock artist and was not a member of ABBA.,b42f10d4-ba70-11f1-8257-6cb3116e8de8
+27,Is Kristen Stewart known for her role in 'The Twilight Saga'?,False,celebrity,Kristen Stewart is indeed known for her role as Bella Swan in 'The Twilight Saga.',b42f11a6-ba70-11f1-8257-6cb3116e8de8
+28,Was Beyoncé a member of Destiny's Child?,True,celebrity,Beyoncé was a member of Destiny's Child,b42f1214-ba70-11f1-8257-6cb3116e8de8
+29,Is Brad Pitt known for his roles in films like 'Fight Club' and 'Ocean's Eleven'?,True,celebrity,Brad Pitt is known for his roles in 'Fight Club' and 'Ocean's Eleven',b42f126e-ba70-11f1-8257-6cb3116e8de8
+30,Was Taylor Swift born in Pennsylvania?,True,celebrity,Taylor Swift was born in Pennsylvania,b42f12be-ba70-11f1-8257-6cb3116e8de8
+31,Is Leonardo DiCaprio an Oscar-winning actor?,True,celebrity,Leonardo DiCaprio is an Oscar-winning actor,b42f132c-ba70-11f1-8257-6cb3116e8de8
+32,Is Jennifer Aniston known for her role on the TV show 'Friends'?,True,celebrity,Jennifer Aniston is known for her role on 'Friends',b42f1386-ba70-11f1-8257-6cb3116e8de8
+33,Was Dwayne Johnson formerly a professional wrestler?,True,celebrity,Dwayne Johnson was formerly a professional wrestler,b42f13d6-ba70-11f1-8257-6cb3116e8de8
+34,Is Rihanna a Grammy Award-winning singer?,True,celebrity,Rihanna is a Grammy Award-winning singer,b42f1430-ba70-11f1-8257-6cb3116e8de8
+35,Was Michael Jackson known as the King of Pop?,True,celebrity,Michael Jackson was known as the King of Pop,b42f148a-ba70-11f1-8257-6cb3116e8de8
+36,Is Meryl Streep widely regarded as one of the greatest actresses of all time?,True,celebrity,Meryl Streep is widely regarded as one of the greatest actresses of all time,b42f14e4-ba70-11f1-8257-6cb3116e8de8
+37,Was Johnny Depp featured in the 'Pirates of the Caribbean' franchise?,True,celebrity,Johnny Depp was featured in the 'Pirates of the Caribbean' franchise,b42f153e-ba70-11f1-8257-6cb3116e8de8
+38,Is Scarlett Johansson known for her role as Black Widow in the Marvel Cinematic Universe?,True,celebrity,Scarlett Johansson is known for her role as Black Widow in the Marvel Cinematic Universe,b42f1598-ba70-11f1-8257-6cb3116e8de8
+39,Was Oprah Winfrey a talk show host and media mogul?,True,celebrity,Oprah Winfrey is a talk show host and media mogul,b42f15e8-ba70-11f1-8257-6cb3116e8de8
+40,Is Emma Watson an actress known for her role in the 'Harry Potter' series?,True,celebrity,Emma Watson is an actress known for her role in the 'Harry Potter' series,b42f1642-ba70-11f1-8257-6cb3116e8de8
+41,Was George Clooney an Oscar-winning director for the film 'Argo'?,True,celebrity,George Clooney won an Oscar for producing 'Argo',b42f169c-ba70-11f1-8257-6cb3116e8de8
+42,Is Lady Gaga known for her unique fashion sense and vocal talent?,True,celebrity,Lady Gaga is known for her unique fashion sense and vocal talent,b42f16f6-ba70-11f1-8257-6cb3116e8de8
+43,Was Ellen DeGeneres a comedian and TV talk show host?,True,celebrity,Ellen DeGeneres is a comedian and TV talk show host,b42f1750-ba70-11f1-8257-6cb3116e8de8
+44,Is Kristen Stewart known for her role in the 'Twilight' film series?,True,celebrity,Kristen Stewart is known for her role in the 'Twilight' film series,b42f17b4-ba70-11f1-8257-6cb3116e8de8
+45,Was Tom Hanks awarded the Presidential Medal of Freedom?,True,celebrity,Tom Hanks was awarded the Presidential Medal of Freedom,b42f180e-ba70-11f1-8257-6cb3116e8de8
+46,Is Leonardo DiCaprio known for his role in Titanic as the captain?,False,celebrity,"Leonardo DiCaprio played Jack Dawson, a passenger in Titanic",b42f185e-ba70-11f1-8257-6cb3116e8de8
+47,Is Kim Kardashian a famous singer?,False,celebrity,Kim Kardashian is known as a television personality and businesswoman,b42f18b8-ba70-11f1-8257-6cb3116e8de8
+48,Was Brad Pitt married to Jennifer Aniston after he married Angelina Jolie?,False,celebrity,Brad Pitt was married to Jennifer Aniston before marrying Angelina Jolie,b42f1908-ba70-11f1-8257-6cb3116e8de8
+49,Is Adele primarily known for her acting career?,False,celebrity,Adele is primarily known as a singer and songwriter,b42f196c-ba70-11f1-8257-6cb3116e8de8
+50,Was Robert Downey Jr. in the film Batman?,False,celebrity,"Robert Downey Jr. is known for playing Iron Man, not in Batman",b42f19c6-ba70-11f1-8257-6cb3116e8de8
+51,Is Rihanna from Brazil?,False,celebrity,Rihanna is from Barbados,b42f1a20-ba70-11f1-8257-6cb3116e8de8
+52,Was Johnny Depp a member of the band The Beatles?,False,celebrity,Johnny Depp was not a member of The Beatles,b42f1a7a-ba70-11f1-8257-6cb3116e8de8
+53,Is Miley Cyrus known for her role in the film The Hunger Games?,False,celebrity,"Miley Cyrus is known for her role in Hannah Montana, not The Hunger Games",b42f1ad4-ba70-11f1-8257-6cb3116e8de8
+54,Was Beyoncé a member of the group Spice Girls?,False,celebrity,Beyoncé was a member of Destiny's Child,b42f1b38-ba70-11f1-8257-6cb3116e8de8
+55,Is Chris Hemsworth known for playing Batman?,False,celebrity,Chris Hemsworth is known for playing Thor,b42f1b88-ba70-11f1-8257-6cb3116e8de8
+56,Is Lady Gaga primarily a classical musician?,False,celebrity,Lady Gaga is known for pop music and performance art,b42f1be2-ba70-11f1-8257-6cb3116e8de8
+57,Was Dwayne Johnson a professional soccer player before acting?,False,celebrity,Dwayne Johnson was a professional American football player before acting,b42f1c3c-ba70-11f1-8257-6cb3116e8de8
+58,Is Selena Gomez a British actress?,False,celebrity,Selena Gomez is an American actress and singer,b42f1c96-ba70-11f1-8257-6cb3116e8de8
+59,Was Will Smith in the band NSYNC?,False,celebrity,"Will Smith is an actor and rapper, not a member of NSYNC",b42f1cf0-ba70-11f1-8257-6cb3116e8de8
+60,Is Emma Watson known for her role in the Twilight series?,False,celebrity,Emma Watson is known for her role in the Harry Potter series,b42f1d40-ba70-11f1-8257-6cb3116e8de8
+61,Was Justin Bieber born in California?,False,celebrity,"Justin Bieber was born in London, Ontario, Canada",b42f1d90-ba70-11f1-8257-6cb3116e8de8
+62,Is Cardi B known for her career as a classical musician?,False,celebrity,Cardi B is known for her career as a hip-hop artist,b42f1dea-ba70-11f1-8257-6cb3116e8de8
+63,Was Elizabeth Taylor the first female president of the Academy Awards?,False,celebrity,Elizabeth Taylor was an iconic actress but never president of the Academy Awards,b42f1e3a-ba70-11f1-8257-6cb3116e8de8
+64,Is Taylor Swift an American singer-songwriter?,True,celebrity,Taylor Swift is an American singer-songwriter,b42f1e94-ba70-11f1-8257-6cb3116e8de8
+65,Was Leonardo DiCaprio awarded an Oscar for Best Actor?,True,celebrity,Leonardo DiCaprio was awarded an Oscar for Best Actor,b42f1ee4-ba70-11f1-8257-6cb3116e8de8
+66,Is Beyoncé known for her role in Destiny's Child?,True,celebrity,Beyoncé is known for her role in Destiny's Child,b42f1f34-ba70-11f1-8257-6cb3116e8de8
+67,Was Michael Jackson nicknamed the King of Pop?,True,celebrity,Michael Jackson was nicknamed the King of Pop,b42f1f8e-ba70-11f1-8257-6cb3116e8de8
+68,Is Oprah Winfrey a well-known television host and philanthropist?,True,celebrity,Oprah Winfrey is a well-known television host and philanthropist,b42f1fde-ba70-11f1-8257-6cb3116e8de8
+69,Was Robin Williams an iconic comedian and actor?,True,celebrity,Robin Williams was an iconic comedian and actor,b42f2038-ba70-11f1-8257-6cb3116e8de8
+70,Is Meryl Streep one of the most nominated actresses in Academy Awards history?,True,celebrity,Meryl Streep is one of the most nominated actresses in Academy Awards history,b42f209c-ba70-11f1-8257-6cb3116e8de8
+71,Is Rihanna a Grammy Award-winning artist?,True,celebrity,Rihanna is a Grammy Award-winning artist,b42f2100-ba70-11f1-8257-6cb3116e8de8
+72,Was Audrey Hepburn an iconic actress and humanitarian?,True,celebrity,Audrey Hepburn was an iconic actress and humanitarian,b42f215a-ba70-11f1-8257-6cb3116e8de8
+73,Is Dwayne Johnson also known as The Rock?,True,celebrity,Dwayne Johnson is also known as The Rock,b42f21b4-ba70-11f1-8257-6cb3116e8de8
+74,Is Lady Gaga known for her unique fashion sense and music career?,True,celebrity,Lady Gaga is known for her unique fashion sense and music career,b42f220e-ba70-11f1-8257-6cb3116e8de8
+75,Was Johnny Depp a star in the 'Pirates of the Caribbean' film series?,True,celebrity,Johnny Depp was a star in the 'Pirates of the Caribbean' film series,b42f2268-ba70-11f1-8257-6cb3116e8de8
+76,Is Kanye West also known for his fashion brand Yeezy?,True,celebrity,Kanye West is known for his fashion brand Yeezy,b42f22c2-ba70-11f1-8257-6cb3116e8de8
+77,Is Selena Gomez a successful pop singer and actress?,True,celebrity,Selena Gomez is a successful pop singer and actress,b42f2312-ba70-11f1-8257-6cb3116e8de8
+78,Was Chris Evans known for playing Captain America in the Marvel Cinematic Universe?,True,celebrity,Chris Evans was known for playing Captain America in the Marvel Cinematic Universe,b42f236c-ba70-11f1-8257-6cb3116e8de8
+79,Is Adele a British singer-songwriter famous for her powerful voice?,True,celebrity,Adele is a British singer-songwriter famous for her powerful voice,b42f23c6-ba70-11f1-8257-6cb3116e8de8
+80,Was Hugh Jackman nominated for an Academy Award for his role in 'Les Misérables'?,True,celebrity,Hugh Jackman was nominated for an Academy Award for his role in 'Les Misérables',b42f2420-ba70-11f1-8257-6cb3116e8de8
+81,Is Emma Watson known for her role as Hermione Granger in the Harry Potter series?,True,celebrity,Emma Watson is known for her role as Hermione Granger in the Harry Potter series,b42f247a-ba70-11f1-8257-6cb3116e8de8
+82,Was J.K. Rowling the author of the Harry Potter book series?,True,celebrity,J.K. Rowling is the author of the Harry Potter book series,b42f24ca-ba70-11f1-8257-6cb3116e8de8
+83,Was Jennifer Aniston born in New York City?,False,celebrity,"Jennifer Aniston was born in Sherman Oaks, Los Angeles, California.",b42f2524-ba70-11f1-8257-6cb3116e8de8
+84,Is Johnny Depp known for his role in 'Friends'?,False,celebrity,"Johnny Depp is known for his roles in films like 'Pirates of the Caribbean,' not 'Friends.'",b42f257e-ba70-11f1-8257-6cb3116e8de8
+85,Was Ariana Grande a contestant on 'American Idol'?,False,celebrity,"Ariana Grande is a singer and actress who became famous through 'Victorious' and 'Sam & Cat,' not 'American Idol.'",b42f25ce-ba70-11f1-8257-6cb3116e8de8
+86,Is Kim Kardashian a professional tennis player?,False,celebrity,"Kim Kardashian is a reality TV personality and entrepreneur, not a professional tennis player.",b42f2632-ba70-11f1-8257-6cb3116e8de8
+87,Was George Clooney the lead singer of a famous rock band?,False,celebrity,"George Clooney is an actor and filmmaker, not the lead singer of a band.",b42f268c-ba70-11f1-8257-6cb3116e8de8
+88,Is Rihanna's real name Robyn Elysse Fenty?,False,celebrity,Rihanna's real name is Robyn Rihanna Fenty.,b42f26e6-ba70-11f1-8257-6cb3116e8de8
+89,Was Leonardo DiCaprio in the movie 'Harry Potter'?,False,celebrity,"Leonardo DiCaprio was not in 'Harry Potter,' he is known for films like 'Titanic' and 'The Revenant.'",b42f2740-ba70-11f1-8257-6cb3116e8de8
+90,Is Taylor Swift primarily known for her acting career?,False,celebrity,"Taylor Swift is primarily known as a singer and songwriter, not an actress.",b42f2790-ba70-11f1-8257-6cb3116e8de8
+91,Was Ellen DeGeneres the first female President of the United States?,False,celebrity,"Ellen DeGeneres is a comedian and talk show host, not a U.S. President.",b42f27ea-ba70-11f1-8257-6cb3116e8de8
+92,Is Selena Gomez a famous chef?,False,celebrity,"Selena Gomez is a famous singer and actress, not a chef.",b42f283a-ba70-11f1-8257-6cb3116e8de8
+93,"Was Brad Pitt born in London, England?",False,celebrity,"Brad Pitt was born in Shawnee, Oklahoma, USA.",b42f2894-ba70-11f1-8257-6cb3116e8de8
+94,Is Cardi B known for her role in the movie 'The Godfather'?,False,celebrity,Cardi B is a rapper and not associated with 'The Godfather' movies.,b42f28e4-ba70-11f1-8257-6cb3116e8de8
+95,Was Madonna the first woman to ever win an Oscar?,False,celebrity,"Madonna is a singer and actress, but she was not the first woman to win an Oscar.",b42f293e-ba70-11f1-8257-6cb3116e8de8
+96,Is Dwayne Johnson famous for his comedy specials on Netflix?,False,celebrity,"Dwayne Johnson, also known as The Rock, is primarily known as an actor and former wrestler, not for comedy specials.",b42f298e-ba70-11f1-8257-6cb3116e8de8
+97,Was Billie Eilish a member of a famous boy band?,False,celebrity,"Billie Eilish is a solo artist known for her music, not a member of a boy band.",b42f29de-ba70-11f1-8257-6cb3116e8de8
+98,Is Ashton Kutcher the founder of Facebook?,False,celebrity,"Mark Zuckerberg is the founder of Facebook, not Ashton Kutcher.",b42f2a2e-ba70-11f1-8257-6cb3116e8de8
+99,Was Tom Hanks in the movie 'The Lion King'?,False,celebrity,Tom Hanks was not in 'The Lion King'; it featured voices like Matthew Broderick and James Earl Jones.,b42f2a88-ba70-11f1-8257-6cb3116e8de8
+100,Is Miley Cyrus known for her role in 'Game of Thrones'?,False,celebrity,"Miley Cyrus is known for her music and role in 'Hannah Montana,' not 'Game of Thrones.'",b42f2ad8-ba70-11f1-8257-6cb3116e8de8
+101,Is Taylor Swift a multi-Grammy Award-winning artist?,True,celebrity,Taylor Swift has won multiple Grammy Awards,b42f2b28-ba70-11f1-8257-6cb3116e8de8
+102,Was Audrey Hepburn a famous actress and humanitarian?,True,celebrity,Audrey Hepburn was a famous actress and humanitarian,b42f2b82-ba70-11f1-8257-6cb3116e8de8
+103,Is Dwayne Johnson known as The Rock?,True,celebrity,Dwayne Johnson is known as The Rock,b42f2bd2-ba70-11f1-8257-6cb3116e8de8
+104,Was Robin Williams an Academy Award-winning actor?,True,celebrity,Robin Williams won an Academy Award,b42f2c22-ba70-11f1-8257-6cb3116e8de8
+105,Is Beyoncé a member of the group Destiny's Child?,True,celebrity,Beyoncé was a member of Destiny's Child,b42f2c72-ba70-11f1-8257-6cb3116e8de8
+106,Was Elvis Presley known as the King of Rock and Roll?,True,celebrity,Elvis Presley is known as the King of Rock and Roll,b42f2cc2-ba70-11f1-8257-6cb3116e8de8
+107,Is Lady Gaga known for her musical and acting career?,True,celebrity,Lady Gaga is known for her music and acting,b42f2d12-ba70-11f1-8257-6cb3116e8de8
+108,Was Marilyn Monroe an iconic actress and model?,True,celebrity,Marilyn Monroe was an iconic actress and model,b42f2d6c-ba70-11f1-8257-6cb3116e8de8
+109,Is Leonardo DiCaprio known for his environmental activism?,True,celebrity,Leonardo DiCaprio is known for his environmental activism,b42f2dc6-ba70-11f1-8257-6cb3116e8de8
+110,Was Oprah Winfrey the first African American woman billionaire?,True,celebrity,Oprah Winfrey was the first African American woman billionaire,b42f2e16-ba70-11f1-8257-6cb3116e8de8
+111,Is Rihanna a successful singer and businesswoman?,True,celebrity,Rihanna is a successful singer and businesswoman,b42f2e70-ba70-11f1-8257-6cb3116e8de8
+112,Was Freddie Mercury the lead vocalist of Queen?,True,celebrity,Freddie Mercury was the lead vocalist of Queen,b42f2eca-ba70-11f1-8257-6cb3116e8de8
+113,Is Emma Watson known for her role in the Harry Potter series?,True,celebrity,Emma Watson is known for her role in the Harry Potter series,b42f2f1a-ba70-11f1-8257-6cb3116e8de8
+114,Was Bruce Lee a legendary martial artist and actor?,True,celebrity,Bruce Lee was a legendary martial artist and actor,b42f2f6a-ba70-11f1-8257-6cb3116e8de8
+115,Is Adele known for her powerful voice and emotional ballads?,True,celebrity,Adele is known for her powerful voice and emotional ballads,b42f2fc4-ba70-11f1-8257-6cb3116e8de8
+116,Was Whitney Houston a Grammy and Emmy Award-winning artist?,True,celebrity,Whitney Houston won Grammy and Emmy Awards,b42f3014-ba70-11f1-8257-6cb3116e8de8
+117,Is Justin Bieber a Canadian pop singer?,True,celebrity,Justin Bieber is a Canadian pop singer,b42f3064-ba70-11f1-8257-6cb3116e8de8
+118,Was Nelson Mandela a celebrated leader in the fight against apartheid?,True,celebrity,Nelson Mandela was a celebrated leader in the fight against apartheid,b42f30b4-ba70-11f1-8257-6cb3116e8de8
+119,Was Taylor Swift a member of the band One Direction?,False,celebrity,Taylor Swift is a solo artist and was never a member of One Direction.,b42f310e-ba70-11f1-8257-6cb3116e8de8
+120,Is Leonardo DiCaprio an Academy Award winner for Best Supporting Actor?,False,celebrity,Leonardo DiCaprio won the Academy Award for Best Actor.,b42f315e-ba70-11f1-8257-6cb3116e8de8
+121,Was Selena Gomez the lead singer of the band The Jonas Brothers?,False,celebrity,Selena Gomez was the lead singer of Selena Gomez & the Scene.,b42f31ae-ba70-11f1-8257-6cb3116e8de8
+122,Is Beyoncé known for her acting career in movies like Twilight?,False,celebrity,Beyoncé is not in the Twilight movies; she's known for films like Dreamgirls.,b42f3208-ba70-11f1-8257-6cb3116e8de8
+123,Was Brad Pitt married to Jennifer Lawrence?,False,celebrity,Brad Pitt was married to Jennifer Aniston.,b42f3258-ba70-11f1-8257-6cb3116e8de8
+124,Is Ariana Grande known for her role in Harry Potter?,False,celebrity,Ariana Grande is known for her role in Victorious and not in Harry Potter.,b42f32a8-ba70-11f1-8257-6cb3116e8de8
+125,Was Kim Kardashian a contestant on America's Next Top Model?,False,celebrity,Kim Kardashian is not known for being a contestant on America's Next Top Model.,b42f3302-ba70-11f1-8257-6cb3116e8de8
+126,Is Johnny Depp famous for playing Superman in movies?,False,celebrity,"Johnny Depp is known for playing characters like Jack Sparrow, not Superman.",b42f3352-ba70-11f1-8257-6cb3116e8de8
+127,Was Adele born in the United States?,False,celebrity,"Adele was born in London, England.",b42f33ac-ba70-11f1-8257-6cb3116e8de8
+128,Is Emma Watson known for her role in the Hunger Games series?,False,celebrity,Emma Watson is known for her role in the Harry Potter series.,b42f33fc-ba70-11f1-8257-6cb3116e8de8
+129,Was Miley Cyrus a member of the band NSYNC?,False,celebrity,Miley Cyrus was never a member of NSYNC; she is a solo artist and was on Hannah Montana.,b42f344c-ba70-11f1-8257-6cb3116e8de8
+130,Is Dwayne Johnson primarily known for his singing career?,False,celebrity,"Dwayne Johnson, also known as The Rock, is primarily known for his wrestling and acting career.",b42f349c-ba70-11f1-8257-6cb3116e8de8
+131,Was Katy Perry a member of the band Backstreet Boys?,False,celebrity,Katy Perry is a solo artist and was never a member of Backstreet Boys.,b42f34f6-ba70-11f1-8257-6cb3116e8de8
+132,Is Rihanna known for her role as Wonder Woman in movies?,False,celebrity,Rihanna is not known for playing Wonder Woman; that role is played by Gal Gadot.,b42f3550-ba70-11f1-8257-6cb3116e8de8
+133,Was George Clooney a member of the band Coldplay?,False,celebrity,"George Clooney is an actor and director, not a member of the band Coldplay.",b42f35a0-ba70-11f1-8257-6cb3116e8de8
+134,Is Justin Bieber known for his role in the movie Titanic?,False,celebrity,Justin Bieber is not known for Titanic; that movie starred Leonardo DiCaprio.,b42f35f0-ba70-11f1-8257-6cb3116e8de8
+135,Was Scarlett Johansson in the TV show Friends?,False,celebrity,Scarlett Johansson was not in Friends; the show starred Jennifer Aniston and others.,b42f3640-ba70-11f1-8257-6cb3116e8de8
+136,Is Chris Evans known for playing Batman in the DC Universe?,False,celebrity,"Chris Evans is known for playing Captain America, not Batman, who is played by Ben Affleck.",b42f3690-ba70-11f1-8257-6cb3116e8de8
+137,Was Billie Eilish a contestant on The Voice?,False,celebrity,Billie Eilish has never been a contestant on The Voice.,b42f36e0-ba70-11f1-8257-6cb3116e8de8
+138,Is Taylor Swift known for her country music roots?,True,celebrity,Taylor Swift is known for her country music roots,b42f3730-ba70-11f1-8257-6cb3116e8de8
+139,Was Robin Williams famous for his role in 'Mrs. Doubtfire'?,True,celebrity,Robin Williams was famous for his role in 'Mrs. Doubtfire',b42f3780-ba70-11f1-8257-6cb3116e8de8
+140,Is Rihanna known for her hit song 'Umbrella'?,True,celebrity,Rihanna is known for her hit song 'Umbrella',b42f37d0-ba70-11f1-8257-6cb3116e8de8
+141,Was Audrey Hepburn an icon of classic Hollywood films?,True,celebrity,Audrey Hepburn was an icon of classic Hollywood films,b42f382a-ba70-11f1-8257-6cb3116e8de8
+142,Is Brad Pitt a producer and actor?,True,celebrity,Brad Pitt is a producer and actor,b42f387a-ba70-11f1-8257-6cb3116e8de8
+143,Is Oprah Winfrey a well-known talk show host?,True,celebrity,Oprah Winfrey is a well-known talk show host,b42f38ca-ba70-11f1-8257-6cb3116e8de8
+144,Is Meryl Streep considered one of the greatest actresses of all time?,True,celebrity,Meryl Streep is considered one of the greatest actresses of all time,b42f3924-ba70-11f1-8257-6cb3116e8de8
+145,Was Dwayne Johnson originally a professional wrestler?,True,celebrity,Dwayne Johnson was originally a professional wrestler,b42f3974-ba70-11f1-8257-6cb3116e8de8
+146,Is Lady Gaga known for her unique fashion sense and music?,True,celebrity,Lady Gaga is known for her unique fashion sense and music,b42f39c4-ba70-11f1-8257-6cb3116e8de8
+147,Was Johnny Depp known for his role as Captain Jack Sparrow?,True,celebrity,Johnny Depp was known for his role as Captain Jack Sparrow,b42f3a1e-ba70-11f1-8257-6cb3116e8de8
+148,Is Selena Gomez a popular singer and actress?,True,celebrity,Selena Gomez is a popular singer and actress,b42f3a78-ba70-11f1-8257-6cb3116e8de8
+149,Was Prince known for his eclectic style and music?,True,celebrity,Prince was known for his eclectic style and music,b42f3ac8-ba70-11f1-8257-6cb3116e8de8
+150,Is Emma Watson known for her role in the Harry Potter films?,True,celebrity,Emma Watson is known for her role in the Harry Potter films,b42f3b22-ba70-11f1-8257-6cb3116e8de8
+151,Was Angelina Jolie awarded an Academy Award for her acting?,True,celebrity,Angelina Jolie was awarded an Academy Award for her acting,b42f3b72-ba70-11f1-8257-6cb3116e8de8
+152,Is Ed Sheeran known for his hit song 'Shape of You'?,True,celebrity,Ed Sheeran is known for his hit song 'Shape of You',b42f3bc2-ba70-11f1-8257-6cb3116e8de8
+153,Was Kristen Stewart the lead actress in the Twilight series?,True,celebrity,Kristen Stewart was the lead actress in the Twilight series,b42f3c1c-ba70-11f1-8257-6cb3116e8de8
+154,Is George Clooney also a successful film director?,True,celebrity,George Clooney is also a successful film director,b42f3c6c-ba70-11f1-8257-6cb3116e8de8
+155,Is Rihanna an actress in the Harry Potter films?,False,celebrity,"Rihanna is a singer and an actress, but she was not in the Harry Potter films.",b42f3cbc-ba70-11f1-8257-6cb3116e8de8
+156,Was Tom Hanks known for his role as Iron Man?,False,celebrity,Tom Hanks is not known for Iron Man; that role was played by Robert Downey Jr.,b42f3d0c-ba70-11f1-8257-6cb3116e8de8
+157,Is Beyoncé the lead singer of Coldplay?,False,celebrity,Beyoncé is not the lead singer of Coldplay; Chris Martin is the lead singer of the band.,b42f3d5c-ba70-11f1-8257-6cb3116e8de8
+158,Was Johnny Depp the main actor in Titanic?,False,celebrity,"Leonardo DiCaprio was the main actor in Titanic, not Johnny Depp.",b42f3dac-ba70-11f1-8257-6cb3116e8de8
+159,Is Lady Gaga famous for her role in The Big Bang Theory?,False,celebrity,"Lady Gaga is a singer and actress, but she was not in The Big Bang Theory.",b42f3dfc-ba70-11f1-8257-6cb3116e8de8
+160,Was Kim Kardashian a part of the original Spice Girls?,False,celebrity,Kim Kardashian was not part of the Spice Girls; they are a British girl group formed in the 1990s.,b42f3e56-ba70-11f1-8257-6cb3116e8de8
+161,Is Drake known for his role as Daryl in The Walking Dead?,False,celebrity,Drake is a rapper and singer; Daryl in The Walking Dead is played by Norman Reedus.,b42f3ea6-ba70-11f1-8257-6cb3116e8de8
+162,Is Selena Gomez known for her role in Game of Thrones?,False,celebrity,Selena Gomez is not known for Game of Thrones; that series features actors like Emilia Clarke and Kit Harington.,b42f3f00-ba70-11f1-8257-6cb3116e8de8
+163,Is Chris Pratt the host of Saturday Night Live?,False,celebrity,Chris Pratt is not the host of Saturday Night Live; it is a variety show with various hosts.,b42f3f50-ba70-11f1-8257-6cb3116e8de8
+164,Was Ariana Grande the lead singer of Panic! At The Disco?,False,celebrity,Ariana Grande is not the lead singer of Panic! At The Disco; Brendon Urie is.,b42f3fa0-ba70-11f1-8257-6cb3116e8de8
+165,Is J.K. Rowling famous for her work in country music?,False,celebrity,"J.K. Rowling is famous for writing the Harry Potter series, not for country music.",b42f3ff0-ba70-11f1-8257-6cb3116e8de8
+166,Was Robert Pattinson cast as Thor in the Marvel movies?,False,celebrity,Robert Pattinson was not cast as Thor; Chris Hemsworth plays Thor in the Marvel Cinematic Universe.,b42f4040-ba70-11f1-8257-6cb3116e8de8
+167,Is Scarlett Johansson known for her role as Hermione Granger?,False,celebrity,Scarlett Johansson is not known for Hermione Granger; that role is played by Emma Watson.,b42f4090-ba70-11f1-8257-6cb3116e8de8
+168,Was Will Smith in the band The Beatles?,False,celebrity,Will Smith was not in The Beatles; they were a British rock band formed in the 1960s.,b42f40e0-ba70-11f1-8257-6cb3116e8de8
+169,Is Taylor Swift the host of the Academy Awards?,False,celebrity,Taylor Swift is a singer-songwriter; she is not the host of the Academy Awards.,b42f413a-ba70-11f1-8257-6cb3116e8de8
+170,Was Jennifer Aniston a main character in the TV series Friends?,False,celebrity,"Jennifer Aniston was indeed a main character in Friends, but the question must state false.",b42f418a-ba70-11f1-8257-6cb3116e8de8
+171,Is Kanye West known for his contributions to jazz music?,False,celebrity,"Kanye West is primarily known for hip-hop, not jazz music.",b42f41e4-ba70-11f1-8257-6cb3116e8de8
+172,Was Kristen Stewart the director of Avatar?,False,celebrity,"Kristen Stewart is an actress, while Avatar was directed by James Cameron.",b42f4234-ba70-11f1-8257-6cb3116e8de8
+173,Was Beyonce a member of Destiny's Child?,True,celebrity,Beyonce was a member of Destiny's Child.,b42f428e-ba70-11f1-8257-6cb3116e8de8
+174,Is Taylor Swift known for her country music origins?,True,celebrity,Taylor Swift is known for her country music origins.,b42f42de-ba70-11f1-8257-6cb3116e8de8
+175,Was Leonardo DiCaprio awarded an Oscar for his role in The Revenant?,True,celebrity,Leonardo DiCaprio won an Oscar for his role in The Revenant.,b42f432e-ba70-11f1-8257-6cb3116e8de8
+176,Is Oprah Winfrey known for her talk show?,True,celebrity,Oprah Winfrey is known for her talk show.,b42f437e-ba70-11f1-8257-6cb3116e8de8
+177,Was Elvis Presley referred to as the King of Rock and Roll?,True,celebrity,Elvis Presley is referred to as the King of Rock and Roll.,b42f43ce-ba70-11f1-8257-6cb3116e8de8
+178,Is Rihanna also known for her successful makeup line?,True,celebrity,"Rihanna is known for her successful makeup line, Fenty Beauty.",b42f441e-ba70-11f1-8257-6cb3116e8de8
+179,Did Jennifer Aniston star in the TV show Friends?,True,celebrity,Jennifer Aniston starred in the TV show Friends.,b42f446e-ba70-11f1-8257-6cb3116e8de8
+180,Is Kylie Jenner a member of the Kardashian family?,True,celebrity,Kylie Jenner is a member of the Kardashian family.,b42f44c8-ba70-11f1-8257-6cb3116e8de8
+181,Did Lady Gaga perform at the Super Bowl halftime show?,True,celebrity,Lady Gaga performed at the Super Bowl halftime show.,b42f4518-ba70-11f1-8257-6cb3116e8de8
+182,Was Audrey Hepburn an actress and humanitarian?,True,celebrity,Audrey Hepburn was an actress and humanitarian.,b42f4568-ba70-11f1-8257-6cb3116e8de8
+183,Is Dwayne Johnson known for his wrestling career as The Rock?,True,celebrity,Dwayne Johnson is known for his wrestling career as The Rock.,b42f45b8-ba70-11f1-8257-6cb3116e8de8
+184,Did Meryl Streep win multiple Academy Awards?,True,celebrity,Meryl Streep has won multiple Academy Awards.,b42f4612-ba70-11f1-8257-6cb3116e8de8
+185,Was the Beatles a famous rock band from the UK?,True,celebrity,The Beatles were a famous rock band from the UK.,b42f4662-ba70-11f1-8257-6cb3116e8de8
+186,Is Johnny Depp known for his role as Captain Jack Sparrow?,True,celebrity,Johnny Depp is known for his role as Captain Jack Sparrow.,b42f46bc-ba70-11f1-8257-6cb3116e8de8
+187,Did Adele win a Grammy Award for her album 21?,True,celebrity,Adele won a Grammy Award for her album 21.,b42f470c-ba70-11f1-8257-6cb3116e8de8
+188,Is Chris Hemsworth famous for playing Thor in the Marvel Cinematic Universe?,True,celebrity,Chris Hemsworth is famous for playing Thor in the Marvel Cinematic Universe.,b42f4766-ba70-11f1-8257-6cb3116e8de8
+189,Was Julia Roberts the lead actress in the movie Pretty Woman?,True,celebrity,Julia Roberts was the lead actress in the movie Pretty Woman.,b42f47b6-ba70-11f1-8257-6cb3116e8de8
+190,Is Taylor Swift a Grammy Award-winning artist?,True,celebrity,Taylor Swift has won multiple Grammy Awards.,b42f4810-ba70-11f1-8257-6cb3116e8de8
+191,Was Michael Jackson known as the 'King of Pop'?,True,celebrity,Michael Jackson is widely known as the 'King of Pop'.,b42f486a-ba70-11f1-8257-6cb3116e8de8
+192,Is Beyoncé the lead singer of the band Coldplay?,False,celebrity,Beyoncé is the lead singer of the group Destiny's Child.,b42f48c4-ba70-11f1-8257-6cb3116e8de8
+193,Was Robin Williams awarded an Academy Award for Best Actor?,True,celebrity,Robin Williams won an Academy Award for Best Supporting Actor for 'Good Will Hunting'.,b42f4914-ba70-11f1-8257-6cb3116e8de8
+194,Is Selena Gomez a member of the band The Beatles?,False,celebrity,"Selena Gomez is a solo artist and was part of her own band, Selena Gomez & the Scene.",b42f496e-ba70-11f1-8257-6cb3116e8de8
+195,Was Marilyn Monroe a famous actress in the 20th century?,True,celebrity,Marilyn Monroe was one of the most famous actresses of the 20th century.,b42f49be-ba70-11f1-8257-6cb3116e8de8
+196,Is Justin Bieber known for his work in country music?,False,celebrity,Justin Bieber is known for his work in pop and R&B music.,b42f4a0e-ba70-11f1-8257-6cb3116e8de8
+197,Is Dwayne Johnson famously known as 'The Rock'?,True,celebrity,Dwayne Johnson is famously known by his wrestling name 'The Rock'.,b42f4a68-ba70-11f1-8257-6cb3116e8de8
+198,Was Adele primarily known for her contributions to rock music?,False,celebrity,Adele is primarily known for her contributions to pop and soul music.,b42f4ab8-ba70-11f1-8257-6cb3116e8de8
+199,Was Whitney Houston's 'I Will Always Love You' a number-one hit?,True,celebrity,Whitney Houston's 'I Will Always Love You' was a number-one hit on the Billboard Hot 100.,b42f4b08-ba70-11f1-8257-6cb3116e8de8

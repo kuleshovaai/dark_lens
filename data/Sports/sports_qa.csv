@@ -1,0 +1,201 @@
+example_id,question,answer,category,correct_fact,label
+be4654d450414d15ab01d2efcd0804c3,Is soccer the most popular sport in the world?,True,sports,Soccer is recognized as the most popular sport globally.,1
+196e165da0104179b6b573fb782d505b,Was Michael Jordan a famous basketball player?,True,sports,Michael Jordan is widely regarded as one of the greatest basketball players of all time.,1
+3042ce8af95e4723933ed73efe93a633,Is the Olympic Games held every four years?,True,sports,The Summer and Winter Olympic Games are held every four years.,1
+ff3d72cc4a9f4750aaa05bd61025913f,Was Usain Bolt a successful sprinter?,True,sports,Usain Bolt is known for being one of the fastest sprinters in history.,1
+a17a1403e6f54e52b019c013ede37e14,Is tennis played on a rectangular court?,True,sports,Tennis is played on a rectangular court divided by a net.,1
+092f56df7f8c4e91ba358a804ee7adc2,Was Serena Williams the first woman to win 20 Grand Slam titles?,False,sports,"Serena Williams has won 23 Grand Slam singles titles, the most for any player in the Open Era.",0
+942f03665049496f83ec81326b8ec0db,Is the FIFA Women's World Cup held every two years?,False,sports,The FIFA Women's World Cup is held every four years.,0
+58c5b5b3568746e38f0eb0f52e02e21c,Is the Super Bowl the championship game of Major League Baseball?,False,sports,The Super Bowl is the championship game of the National Football League (NFL).,0
+7e1b24ad43784362afdc0dafb5130bad,Was Babe Ruth a famous football player?,False,sports,Babe Ruth was a legendary baseball player.,0
+1a0c35cb484e4e8c9b553f6f9090545f,Is golf played with a spherical ball?,False,sports,"Golf is played with a dimpled ball, specifically designed for the sport.",0
+9b20d61cf31f4433b52300eea451dfa5,Is Michael Jordan considered one of the greatest basketball players of all time?,True,sports,Michael Jordan is widely regarded as one of the greatest basketball players.,1
+e6006fb9d1d041f7b9182172a739453e,Was the Summer Olympics first held in ancient Greece?,True,sports,The ancient Olympic Games were held in Greece.,1
+1b9883d0040649359824180764bd311c,Is Usain Bolt the fastest man in history?,True,sports,Usain Bolt holds the world record for the fastest 100m sprint.,1
+4cb4db5a87ff4865b60876148623410e,Was Serena Williams ranked number one in women's singles tennis multiple times?,True,sports,Serena Williams has held the WTA number one ranking multiple times.,1
+9a4f39c1befb42f3bc03b5bc94af5892,Is the Tour de France a car racing event?,False,sports,"The Tour de France is a cycling race, not a car racing event.",0
+93b58386e3e94edb91aa2bf71a11d313,Is the FIFA World Cup held every two years?,False,sports,The FIFA World Cup is held every four years.,0
+77dbf93d2cee494f8d40b95936255be5,Is tennis played with a round ball?,False,sports,"Tennis is played with a felt-covered yellow ball, not round.",0
+0b942ab74105424ead00d3521c5cc1a7,Is the Super Bowl the final game of the NBA season?,False,sports,"The Super Bowl is the final game of the NFL season, not the NBA.",0
+404d125320f847d6b1b8c2f4167dab1f,Is the FIFA World Cup held every four years?,True,sports,The FIFA World Cup is held every four years.,1
+cefa0291b58140b38220254bd46fe6bd,Is Usain Bolt the fastest man in the world?,True,sports,Usain Bolt holds the record for the fastest 100 meters.,1
+b844dd04817a49e3ae93d745491ae0f7,Was Serena Williams ranked number one in women's tennis multiple times?,True,sports,Serena Williams was ranked number one in women's tennis multiple times.,1
+f02360451a6e4c26a112eb96385c0fd8,Is the Super Bowl the championship game of the NFL?,True,sports,The Super Bowl is the championship game of the NFL.,1
+c1760e8530cc4eda91391d7ded5d2616,Was Pelé considered one of the greatest soccer players of all time?,True,sports,Pelé is widely regarded as one of the greatest soccer players of all time.,1
+14eb0638024149df803c125349d51713,Is the Tour de France a professional cycling race?,True,sports,The Tour de France is a prestigious professional cycling race.,1
+211a3a9779d4440eb2d83b62ed8356b6,Is the NBA Finals the championship series of Major League Baseball?,False,sports,The NBA Finals is the championship series of the National Basketball Association.,0
+a4127cc23cd24588bdefc219d3734831,Is golf played with a round ball?,False,sports,"Golf is played with a small, dimpled ball, not a round one.",0
+90fe61b54b324340b667bdc5b06f6dff,Was the 2016 Summer Olympics held in London?,False,sports,"The 2016 Summer Olympics were held in Rio de Janeiro, Brazil.",0
+dd578f4135f343c6949446af52ad0ecc,Is the Stanley Cup awarded to the top team in the NFL?,False,sports,The Stanley Cup is awarded to the top team in the National Hockey League (NHL).,0
+47d07afa38894f01bc72d783ea82d49d,Was Tiger Woods known for his achievements in tennis?,False,sports,"Tiger Woods is known for his achievements in golf, not tennis.",0
+0e06cab3777146119845994a3abdfa5f,Is Cristiano Ronaldo an acclaimed cricketer?,False,sports,"Cristiano Ronaldo is an acclaimed soccer player, not a cricketer.",0
+7f729c195fca4dd889369d2815109f7c,Was the 1980 Winter Olympics held in Los Angeles?,False,sports,"The 1980 Winter Olympics were held in Lake Placid, New York.",0
+c5bf1e2255934a87a9dd7468302f058c,Is a touchdown worth 7 points in American football?,False,sports,"A touchdown is worth 6 points in American football, followed by an extra point attempt.",0
+90d48b3c1cb046bf93049df9cf1389fd,Is Wimbledon a renowned tournament in rugby?,False,sports,"Wimbledon is a renowned tournament in tennis, not rugby.",0
+caf95b19c0304230b5ee5b07013f1a96,Is basketball played on a rectangular field?,False,sports,"Basketball is played on a rectangular court, not a field.",0
+74b3666316294387b95a117edbf4cb96,Was Michael Jordan a player for the Chicago Bulls?,True,sports,Michael Jordan played for the Chicago Bulls in the NBA.,1
+1b1513d76e164ffeb9787c280ab2f0e4,Is tennis played on a court?,True,sports,Tennis is played on a rectangular court.,1
+a09ccf15747545a3bc6d53b8cf5f551b,Was Usain Bolt an Olympic sprinter from Jamaica?,True,sports,Usain Bolt is a renowned sprinter from Jamaica.,1
+f21046dd212e414cacc742371f45af88,Is basketball played with a round ball?,True,sports,Basketball is played with a spherical ball.,1
+5ca4e1c4316648a9b9bc8f72fbf9db4b,Was Serena Williams ranked number one in women's tennis?,True,sports,Serena Williams has been ranked number one in women's tennis multiple times.,1
+8f9f244dfc144967ab5d3d174e7b6835,Is swimming an Olympic sport?,True,sports,Swimming is one of the sports featured in the Olympics.,1
+498ac53774af47de970bbda0721fddd1,Was Pelé a famous soccer player from Brazil?,True,sports,Pelé is a legendary soccer player from Brazil.,1
+0c34b224c6b24017b951de77fde1c6c9,Is the Tour de France a famous cycling race?,True,sports,The Tour de France is one of the most prestigious cycling races.,1
+9399ba686bc14dd1ad0b14c671b93071,Was the first modern Olympic Games held in 1896?,True,sports,The first modern Olympic Games took place in Athens in 1896.,1
+5fd3a8b15ed74845935151f74fa0a5d2,Is golf played with clubs and a ball?,True,sports,Golf is played using clubs to hit a ball into a series of holes.,1
+d44a4392672e455b8a4f9d204cbcd6c5,Is the NFL known for American football?,True,sports,The NFL (National Football League) is known for American football.,1
+f51776864221409885927380f54e86f8,Was Tiger Woods a dominant golfer in the late 1990s and early 2000s?,True,sports,Tiger Woods was a dominant force in golf during that period.,1
+8da539292bb245b9bd4e9b1d98c9ae29,Is the Stanley Cup awarded in the NHL?,True,sports,The Stanley Cup is awarded to the champion of the NHL.,1
+bcc2639ec32e42fc9a0bc4a4cfcf52c7,Is boxing considered a combat sport?,True,sports,Boxing is classified as a combat sport.,1
+0bb8d8aa93ec4afbbcefdd4d7dfa8bfe,Is the NBA a professional basketball league in the United States?,True,sports,The NBA (National Basketball Association) is a professional basketball league in the U.S.,1
+f28e1ac39b414c14bf5ff3ba840bdf1f,Is rugby featured in the Summer Olympics?,True,sports,Rugby is included in the Summer Olympic Games.,1
+0c40ac43e9b449969ce44f458a4d2890,Was the first colored Olympics held in 1960?,True,sports,The first Olympics to be widely televised in color occurred in Rome 1960.,1
+5ba037b10216455caa89c026bf70abc7,Was the first modern Olympic Games held in London?,False,sports,The first modern Olympic Games were held in Athens in 1896.,0
+ffab19b035f440f183a396c3c2d1e3ea,Is soccer primarily played in the United States?,False,sports,Soccer is primarily played in many countries worldwide but is less popular in the United States compared to other sports.,0
+041043ab7cc944db9b1f69e21f4478dd,Was Michael Jordan primarily a baseball player?,False,sports,Michael Jordan was primarily a basketball player.,0
+c13b74a8d39a4b8eb3d767ad467b6252,Is tennis played with a wooden racket?,False,sports,Tennis is played with a modern composite or metal racket.,0
+95bb0e773043417a843f59af196f6ffb,Is rugby played with an oval-shaped hoop?,False,sports,Rugby is played with an oval-shaped ball.,0
+5bc6c4f8061a4ed699ed6895e48e9ce2,Was Usain Bolt a renowned swimmer?,False,sports,Usain Bolt is a renowned sprinter.,0
+3e08167d6563433cbf3b6a8151e1d46b,Is the Super Bowl the championship game of basketball?,False,sports,The Super Bowl is the championship game of American football.,0
+a5c5d96bf93d47aeb5f91c8254fb1ac1,Was the FIFA World Cup held every two years in its history?,False,sports,The FIFA World Cup is held every four years.,0
+dd71dc325668480d9dee553ac8ea8ab9,Is golf played on a rectangular field?,False,sports,Golf is played on a course with various-shaped holes.,0
+e98272e13dd844a69dddb7eae0a59558,Is the Tour de France a football tournament?,False,sports,The Tour de France is a cycling race.,0
+c47a6359c5d34171929436fde29fa73a,Is the NHL primarily focused on basketball?,False,sports,The NHL is primarily focused on ice hockey.,0
+c05b3205a67f4f5b89e8b8bb883f1bc8,Was Serena Williams known for her basketball career?,False,sports,Serena Williams is known for her tennis career.,0
+fbd0fd81534b48e19b1616eca19b6fef,Is the NBA the governing body for soccer?,False,sports,The NBA is the governing body for basketball.,0
+bc97b90df2264bf09f92cdc53b371d52,Is a marathon race 20 kilometers long?,False,sports,A marathon race is 42.195 kilometers long.,0
+07b16d8fc8494874b1a29d5e50ebae68,Was the first baseball game played in the 20th century?,False,sports,The first baseball game is believed to have been played in the 19th century.,0
+df79b507065d465cb32a970ecb95a254,Is swimming classified as a land sport?,False,sports,Swimming is classified as a water sport.,0
+d7a684be19a94379a238f439305ff2a6,Is ice hockey played exclusively on grass?,False,sports,Ice hockey is played on ice.,0
+62bbd36b51784854b7ef6095b62ed753,Was the 2004 Summer Olympics held in Sydney?,False,sports,The 2004 Summer Olympics were held in Athens.,0
+4069f259ba2f4eaf8caa99a216c85ba8,Is soccer known as football in most countries?,True,sports,Soccer is known as football in most countries.,1
+ae19b9d8dfcb44c0baa4a0277d22120d,Was Michael Jordan a professional basketball player?,True,sports,Michael Jordan was a professional basketball player.,1
+0b96a2b8ccd949e9bf21516b391eaa91,Is Usain Bolt a world record holder in sprinting?,True,sports,Usain Bolt is a world record holder in sprinting.,1
+69bcb807c2494c5c8226a8cd2e38d9a4,Is swimming an event in the Summer Olympics?,True,sports,Swimming is an event in the Summer Olympics.,1
+535cb269c23e47939b90002acb01ac27,Was the first FIFA World Cup held in 1930?,True,sports,The first FIFA World Cup was held in 1930.,1
+6ba7c436c9c54a97bafb7be97efef2c4,"Is tennis played on grass, clay, and hard courts?",True,sports,"Tennis is played on grass, clay, and hard courts.",1
+b1f176d983f64b8c805428c307e536d3,Is golf played with clubs and balls?,True,sports,Golf is played with clubs and balls.,1
+e39eefcf7b6943dcb86d4172c40af2e0,Was the 2020 Summer Olympics held in Tokyo?,True,sports,The 2020 Summer Olympics were held in Tokyo.,1
+ac9069a050cd49888707c3dad7893db4,Is the NBA known for basketball?,True,sports,The NBA is known for professional basketball.,1
+66e081aae7e04010b773250138f99c13,Is the World Series the championship series of Major League Baseball?,True,sports,The World Series is the championship series of Major League Baseball.,1
+bd463d9d8fb5443f9994d0b5aebb8325,Is figure skating an Olympic sport?,True,sports,Figure skating is an Olympic sport.,1
+c1996dc94c0e4c4588a7bafd36f0efec,Was Roger Federer ranked as the world number one tennis player multiple times?,True,sports,Roger Federer was ranked as the world number one tennis player multiple times.,1
+ca27650895c54093a76b37eb5740176c,Is cricket a bat-and-ball game that originated in England?,True,sports,Cricket is a bat-and-ball game that originated in England.,1
+93f9e8d816f04cd08f44ee8e091cba32,Is baseball often considered America's pastime?,True,sports,Baseball is often considered America's pastime.,1
+1fea11b4a6dc47b1b7f20b51d36f21a9,Is the Stanley Cup awarded in ice hockey?,True,sports,The Stanley Cup is awarded in ice hockey.,1
+12d1da658ec243b3a07a8afb012ea87a,Is endurance running a common event in athletics?,True,sports,Endurance running is a common event in athletics.,1
+9b811a1ec9fe441392206c1532d7e132,Is LeBron James the all-time leading scorer in NBA history?,False,sports,Kareem Abdul-Jabbar is the all-time leading scorer in NBA history.,0
+93518dad6b2848f197910af4768f427c,Was the World Series first played in 1920?,False,sports,The World Series was first played in 1903.,0
+e9b0e99952e5491f9ad07013ebf41fb1,Is the Tour de France a basketball tournament?,False,sports,The Tour de France is a cycling race.,0
+9337793d386c4386b83329ed807958c5,Was Usain Bolt the first person to run 100 meters in 10 seconds?,False,sports,"Jim Hines was the first person to run 100 meters in 10 seconds, doing so in 1968.",0
+1e5facfd67f74e0db71b4c8921a0b72f,Is soccer the most popular sport in the United States?,False,sports,American football is the most popular sport in the United States.,0
+311c9118244c4c92b005741638d28730,Was Serena Williams born in California?,False,sports,"Serena Williams was born in Saginaw, Michigan.",0
+c74bf09577ab4fd199b1358ebdf60b40,Is the FIFA World Cup held every year?,False,sports,The FIFA World Cup is held every four years.,0
+50939f64e5cb467fa7a325448004e66c,Is Roger Federer known for his skills in basketball?,False,sports,Roger Federer is known for his skills in tennis.,0
+5aa0b9dbb18d437582ddffe239d46455,Was Michael Phelps a famous gymnast?,False,sports,Michael Phelps is a famous swimmer.,0
+88d6417a99f1419e8a3367ea82066c71,Is the Olympics held in November every four years?,False,sports,"The Olympics are held in the summer or winter, but not specifically in November.",0
+e77befa339db445ba4c105e35b89586d,Was Tom Brady a quarterback for the Chicago Bears?,False,sports,Tom Brady was a quarterback for the New England Patriots and later the Tampa Bay Buccaneers.,0
+7ae4ffbf84624ec784f28707148f7a1c,Is golf an Olympic sport that debuted in the 1996 Summer Games?,False,sports,Golf debuted as an Olympic sport in the 2016 Summer Games.,0
+e5714da1df6b4b9fb85b52bcc24f5dbe,Is Lionel Messi known for playing cricket?,False,sports,Lionel Messi is known for playing soccer.,0
+6972b3d7516c40d49ddf8b3272ee7ce8,Was the first Super Bowl played in 1975?,False,sports,The first Super Bowl was played in 1967.,0
+abf4a1c195384985b6d52a0b6eee5240,Is the Stanley Cup awarded to the champion of baseball?,False,sports,The Stanley Cup is awarded to the champion of ice hockey.,0
+bff38a8698d343bc9b6c76b0a34376dd,Is Ronda Rousey a famous football player?,False,sports,Ronda Rousey is a famous mixed martial artist.,0
+ac16a5a7afa0495a874b45e510c036ad,Was the last FIFA Women's World Cup held in South Africa?,False,sports,The last FIFA Women's World Cup was held in France in 2019.,0
+dfcabda150974ec2bf80ab634e5e21e0,Is basketball played with a round ball that is square?,False,sports,Basketball is played with a round ball.,0
+32974099ab4546889852d5aef532f88b,Is the Boston Marathon the longest marathon in the world?,False,sports,"The Boston Marathon is not the longest marathon; it is 26.2 miles, the standard marathon distance.",0
+f3e69193a8254dc787b7b14176f47f34,Was Michael Jordan a key player for the Chicago Bulls?,True,sports,Michael Jordan was a key player for the Chicago Bulls.,1
+50a9778d481f468e8daf8095d004b328,Was Usain Bolt the fastest man in the world during his career?,True,sports,Usain Bolt is regarded as the fastest man in the world during his career.,1
+5eebdd929270448981b08040278b66bc,Was the Super Bowl first held in 1967?,True,sports,The first Super Bowl was held in 1967.,1
+22652d15374644f9b970940b7ee212ab,Is the baseball World Series held in the United States?,True,sports,The World Series is the championship series of Major League Baseball in the United States.,1
+357fc62bbc2f427f97785cb7ec37462b,Is American football known for its touchdown scoring system?,True,sports,American football utilizes a touchdown scoring system.,1
+af3af83c314f43e9bb88829be00e59e4,Was the FIFA Women's World Cup first held in 1991?,True,sports,The first FIFA Women's World Cup was held in 1991.,1
+be88b0e58b9341fcaaf46eece294b725,Is golf played with a club and a ball?,True,sports,Golf is played using clubs to hit a ball into a series of holes on a course.,1
+905fb744c4a7469fa75a6beada1cdcd5,Was Lionel Messi awarded the Ballon d'Or multiple times?,True,sports,Lionel Messi has won the Ballon d'Or multiple times.,1
+326547899e894a7abed3652ffc99ae9d,Is hockey played on ice in the National Hockey League?,True,sports,Hockey is played on ice in the National Hockey League (NHL).,1
+3112c35c0d114a869cdafffa139c41e5,Was the first modern Olympic Games held in Athens in 1896?,True,sports,The first modern Olympic Games were held in Athens in 1896.,1
+c72c4c354693452dba2efc4985faba63,Is badminton played with a shuttlecock?,True,sports,Badminton is played with a shuttlecock.,1
+b46edb6290a04d5a81a5a33a92b6aa95,Is the New York Yankees one of the most successful baseball teams?,True,sports,The New York Yankees are considered one of the most successful teams in Major League Baseball history.,1
+acb261daf65849adb97366ed60bd9a69,Was George Washington the first commissioner of the NFL?,True,sports,George Washington was the first president and held the title of the first commissioner of the NFL.,1
+0a4424c6cadc4863b5a1aedf237dc7fd,Is the Wimbledon tournament one of the four Grand Slam tennis events?,True,sports,Wimbledon is one of the four Grand Slam tennis tournaments.,1
+46676c9bb0d5469e86774c60c63237d8,Is the Boston Marathon one of the oldest annual marathons in the world?,True,sports,"The Boston Marathon is one of the oldest annual marathons, first held in 1897.",1
+de0c67f32011440294526648a9a4b858,Is Michael Jordan known for playing soccer?,False,sports,Michael Jordan is known for playing basketball,0
+757812e4d11147798ee7a2058d8edcbc,Was Usain Bolt a professional swimmer?,False,sports,Usain Bolt is a professional sprinter,0
+bc7ed786814e49a78693638e2bc58c65,Is the Tour de France a tennis tournament?,False,sports,The Tour de France is a cycling race,0
+ea70fea00ac54c23aee2dc2995f18721,Is Serena Williams celebrated for her achievements in football?,False,sports,Serena Williams is celebrated for her achievements in tennis,0
+27960da9b4944052b6bb7d3e3979559b,Is Cristiano Ronaldo a famous baseball player?,False,sports,Cristiano Ronaldo is a famous football (soccer) player,0
+f6e593947aef4027836f20e8b8ff12b0,Was LeBron James the first player to win an Oscar?,False,sports,"LeBron James is a basketball player, not an Oscar winner",0
+8200a3152e4d4acca0a238c08a03431f,Is the Super Bowl played in the summer?,False,sports,"The Super Bowl is played in the winter, typically in February",0
+7bc10cd02a2842f0a2c40aca9e07daf2,Was the late Kobe Bryant known for his career in ice hockey?,False,sports,Kobe Bryant was known for his career in basketball,0
+3a0e238a84a54bca8eb7cde41e44d90e,Is the NBA Finals held every two years?,False,sports,The NBA Finals are held annually,0
+fdc8137c41114093b978beb532c9e37c,Was Arnold Palmer a famous football coach?,False,sports,Arnold Palmer was a famous golfer,0
+f965d800a4e142ddb2820efca9ebdf01,Is Wimbledon the name of a baseball league?,False,sports,Wimbledon is a prestigious tennis tournament,0
+e7086a1158b24b9fae4eaefc8afee0ca,Was the Chicago Bulls' famous logo a lion?,False,sports,The Chicago Bulls' famous logo is a bull,0
+80f50e3077db4b3787731914bd942058,Is the NFL known for playing volleyball games?,False,sports,The NFL is known for American football games,0
+89a2cf517aee45ce851b02a5abf9536b,Was Tiger Woods a champion in track and field?,False,sports,Tiger Woods is a champion golfer,0
+e3b886f81c84412b99a939c18cfdd70f,Is the sport of rugby played with a round ball?,False,sports,Rugby is played with an oval ball,0
+ae6b4224622c4aa08c6c3a7d531ad5c8,Was Pele a famous player in American football?,False,sports,Pele was a famous soccer player,0
+0420efa183f641899ef20c9a0842b7bd,Is the Boston Marathon a swimming competition?,False,sports,The Boston Marathon is a running race,0
+7e8efea8c44748eea89628f50aa21f8a,Is Michael Jordan widely regarded as one of the greatest basketball players of all time?,True,sports,Michael Jordan is widely regarded as one of the greatest basketball players of all time.,1
+ca24861c5a054d15afca5180e7a4b739,Was the FIFA World Cup first held in 1930?,True,sports,The FIFA World Cup was first held in 1930.,1
+2d845d346cad4df2b11d049dd8b45c3e,Is Usain Bolt the world record holder in the men's 100 meters?,True,sports,Usain Bolt is the world record holder in the men's 100 meters.,1
+9151352512b54ccc98bcebebff69d074,Was Serena Williams ranked world No. 1 in women's tennis multiple times?,True,sports,Serena Williams has been ranked world No. 1 in women's tennis multiple times.,1
+fdd7b9e1a73f4c62a4accbe897895b89,Is the Super Bowl the championship game of the National Football League?,True,sports,The Super Bowl is the championship game of the National Football League.,1
+5135c6ff5c8b4510ac761b5face7d0c8,Was the Summer Olympics first held in Athens in 1896?,True,sports,The Summer Olympics were first held in Athens in 1896.,1
+774c1071ee7948e39293a4173169ec61,Is the sport of cricket popular in countries like India and Australia?,True,sports,Cricket is popular in countries like India and Australia.,1
+e7cc15c162134d5e90b558dfd9c6a93c,Is the UEFA Champions League an annual club football competition in Europe?,True,sports,The UEFA Champions League is an annual club football competition in Europe.,1
+e0e948a87aec4ea09b57ef305ca9c3fb,Is Tiger Woods considered one of the greatest golfers of all time?,True,sports,Tiger Woods is considered one of the greatest golfers of all time.,1
+5d3ed90bb4804040b1c48bff93d667b5,Is the final match of the Wimbledon tennis tournament played on grass courts?,True,sports,The final match of the Wimbledon tennis tournament is played on grass courts.,1
+fc145278b2e8418189e466cf9459a5b9,Was baseball invented in the United States?,True,sports,Baseball is widely believed to have been invented in the United States.,1
+35e69332de1a443e998be9636dbe66cf,Is the Tour de France a famous cycling race that takes place in France?,True,sports,The Tour de France is a famous cycling race that takes place in France.,1
+ba89c37343fb4989ad082eff2c8d4779,Is golf played by hitting a ball into a series of holes in as few strokes as possible?,True,sports,Golf is played by hitting a ball into a series of holes in as few strokes as possible.,1
+f11041b6204b4050af1a7e3ecfee69af,Is the NBA Finals the championship series of the National Basketball Association?,True,sports,The NBA Finals is the championship series of the National Basketball Association.,1
+1b7f907badd14a52a200c05d55721c73,Was the Rugby World Cup first held in 1987?,True,sports,The Rugby World Cup was first held in 1987.,1
+652576a901364c28b1e44d096001ac0b,Is the Formula One World Championship an international auto racing series?,True,sports,The Formula One World Championship is an international auto racing series.,1
+3ae6e8b753f04e0f82c787ec5ddb0be5,Was the first Women's World Cup in football held in 1991?,True,sports,The first Women's World Cup in football was held in 1991.,1
+a75133ec725e47b88b13234624d58a3c,Is American football played with an oval-shaped ball?,True,sports,American football is played with an oval-shaped ball.,1
+3b6404e8935d4097be6a08f681397877,Was Michael Jordan a professional soccer player?,False,sports,Michael Jordan was a professional basketball player.,0
+8e6493b997ce4d5b86a67dc8fba52b37,Is the Super Bowl held every three years?,False,sports,The Super Bowl is held every year.,0
+185b11c67c2e42ddb7c70d961961016f,Is Usain Bolt a professional swimmer?,False,sports,Usain Bolt is a professional sprinter.,0
+ba9abd21035741e7a53fc23434993646,Was the World Series originally played in the 17th century?,False,sports,The World Series was first played in 1903.,0
+7ee4e7fbadc346abb3e651db17e02eb3,Is Roger Federer primarily known for his achievements in football?,False,sports,Roger Federer is primarily known for his achievements in tennis.,0
+9aa0518a3afa423bbaff75dcec640a30,Is the Olympic Games held every five years?,False,sports,The Olympic Games are held every four years.,0
+c76c93abebb0499faba1a67787c69468,Is the yellow jersey in cycling awarded for the fastest time in marathons?,False,sports,The yellow jersey is awarded for the overall leader in the Tour de France.,0
+24286670bb3348178734cbf42d72eae7,Was Serena Williams the first woman to win a gold medal in the men's doubles tennis?,False,sports,Serena Williams competes in women's tennis and has won gold medals in women's events.,0
+cee77e33d2a049d287d06cab713f61cd,Is the PGA Tour primarily associated with tennis?,False,sports,The PGA Tour is primarily associated with professional golf.,0
+db98cea6d6884b10b7827da1d464322f,Is the Stanley Cup awarded in the sport of baseball?,False,sports,The Stanley Cup is awarded in the sport of ice hockey.,0
+cf79fcb3c86c4f5094d1341f05c808c1,Did Lionel Messi win the Nobel Prize for his contributions to football?,False,sports,Lionel Messi has not won a Nobel Prize; it is awarded for contributions to various fields like peace and literature.,0
+cd72b0b5f5814acf8564b2e2b8413f66,Was Babe Ruth famous for his career in basketball?,False,sports,Babe Ruth was famous for his career in baseball.,0
+2fbc722b54d6437c960570cc406d4a15,Is the Cricket World Cup held every year?,False,sports,The Cricket World Cup is held every four years.,0
+1a159032fcfc4c6bb6ff62c6c1d8df4b,Does the NBA draft only allow players who are under 18 years old?,False,sports,The NBA draft allows players who are at least 19 years old.,0
+97eec9dbedf5439f8043c30e16ef09d1,Is the Tour de France a competition in winter sports?,False,sports,The Tour de France is a cycling competition.,0
+0d8cef2294b84ff28aa2cc3bac4a18f1,Did Michael Phelps mainly compete in volleyball?,False,sports,Michael Phelps mainly competed in swimming.,0
+def267cb33804bf1b5df814d6df91472,Is the Champions League a football tournament held in North America?,False,sports,The Champions League is a football tournament held in Europe.,0
+57f9ce5617324c9188fe1ba9a8ef610a,Was the first Rugby World Cup held in 1990?,False,sports,The first Rugby World Cup was held in 1987.,0
+a2645804d106438a81b863e5823d80c0,Was the Olympic Games first held in Greece?,True,sports,"The Olympic Games were first held in Olympia, Greece in 776 BC.",1
+47e99f9dee9a431baee41a640e43722d,Is football also known as soccer in some countries?,True,sports,Football is known as soccer in the United States and Canada.,1
+e8ba546fb88a4b3380d6f2191ae530ce,Is cricket a popular sport in India?,True,sports,Cricket is one of the most popular sports in India.,1
+3829743d052a4c78a11096d92d4c5e08,Was Usain Bolt the fastest man in the 100 meters?,True,sports,Usain Bolt holds the world record for the fastest 100 meter sprint.,1
+27716407c0da4f69985a30be2800fe6f,Is baseball considered America's pastime?,True,sports,Baseball is often referred to as America's pastime.,1
+4859d04e87164ab2923fd53d0ee83dec,Was Serena Williams ranked as the top women's tennis player multiple times?,True,sports,Serena Williams has been ranked number one in women's tennis multiple times throughout her career.,1
+5e46ed7776304313b436e8f8ddfc6cb0,Are the New York Yankees a Major League Baseball team?,True,sports,The New York Yankees are one of the most successful teams in Major League Baseball history.,1
+67ca2beb1e984456afaf013b3b6cdbd9,Is the Super Bowl the championship game of American football?,True,sports,The Super Bowl is the annual championship game of the National Football League (NFL).,1
+ec90346422f64115a38b1337161f446d,Is yoga considered a physical activity?,True,sports,"Yoga is recognized as a physical activity that combines stretching, strength, and balance.",1
+64e20de2aa374a07a12eb6fd5a750e92,Is ice hockey typically played on an ice rink?,True,sports,"Ice hockey is played on an ice rink, where teams compete to score goals.",1
+c1e00cb006624ba48eba2f2de49db802,Was Roger Federer known for his exceptional tennis skills?,True,sports,Roger Federer is considered one of the greatest tennis players in history.,1
+ef15d503455949a4928d54abe66471d7,Is the marathon a long-distance running event?,True,sports,The marathon is a long-distance running event that covers 26.2 miles.,1
+1c611a0db9404cecabbdd381ba12e640,Is volleyball played on a court divided by a net?,True,sports,"Volleyball is played on a court divided by a net, where two teams compete to hit the ball over.",1
+b3b71220214445baab8eb9a837bc30cc,Was Michael Jordan a professional tennis player?,False,sports,Michael Jordan was a professional basketball player.,0
+25d696a6ad034c2c9b14ea819b6d6a1d,Is soccer played with a round ball and primarily using hands?,False,sports,Soccer is played with a round ball and primarily using feet.,0
+d13ef4712a184489be7feb2b2a78689a,Was Usain Bolt a famous swimmer?,False,sports,Usain Bolt is a famous sprinter.,0
+5510789c0e394d108acc6a5a6c3d534a,Is the Super Bowl played in Europe every year?,False,sports,The Super Bowl is played in the United States every year.,0
+c574d191b0dc4e6f9d107bdcf79e998f,Was Serena Williams known for competing in golf?,False,sports,Serena Williams is known for competing in tennis.,0
+ccc7b17a4b874cc18302aa4c7c22e0e6,Is the Olympic Games held every two years?,False,sports,The Olympic Games are held every four years.,0
+e282548359fc4b44873e41da61fb64b9,Was the first FIFA World Cup held in Asia?,False,sports,The first FIFA World Cup was held in Uruguay.,0
+6a096003ff914610ba122ea69732f05b,Is baseball typically played in teams of seven players?,False,sports,Baseball is typically played in teams of nine players.,0
+cf1f441c6d1e4f72b23eaa9c1e9c098c,Was the Tour de France originally a car race?,False,sports,The Tour de France is a bicycle race.,0
+cf0f9f55ff5a4b4283d71caee9cfb8b1,Is hockey primarily played on a field?,False,sports,"Hockey is primarily played on ice or a field, but ice hockey is primarily known.",0
+394bc56da4454bb892486a979ef67730,Was Lionel Messi born in Brazil?,False,sports,Lionel Messi was born in Argentina.,0
+6a10afdb13894fe9bf95eb39bde5085d,Is golf played with a flat ball?,False,sports,Golf is played with a round ball.,0
+a662a77497074ed89230d6b2ca2d31b9,Was basketball invented in the 19th century in Europe?,False,sports,Basketball was invented in the 19th century in the United States.,0
+fa0c8182cdf8491da04d9ee30472bff8,Is the World Series played among European teams?,False,sports,The World Series is played among North American MLB teams.,0
+65889390d2544f959d4497da8cc7ddf7,Was the decathlon primarily a swimming competition?,False,sports,The decathlon is primarily a track and field competition.,0

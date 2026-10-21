@@ -1,0 +1,2 @@
+aggregation: mean  # min, max
+batch_size: 1

@@ -1,0 +1,8 @@
+batch_size: 1
+gamma: 0.9
+p: 0.01
+idf_dataset: "togethercomputer/RedPajama-Data-V2"
+seed: 42
+idf_dataset_size: -1
+spacy_path: "en_core_web_sm"
+

@@ -1,0 +1,12 @@
+defaults:
+  - method: tokenwise_entropy
+  - data: coqa
+  - evaluation: default
+  - generation: default
+  - _self_
+
+
+model_name: Llama-2-7b-chat-hf # Mistral-7B-Instruct-v0.1 # Llama-2-7b-chat-hf # Llama-3.1-8B-Instruct # Meta-Llama-3-8B-Instruct
+batch_size: 1
+device: cuda
+cache_dir: cache

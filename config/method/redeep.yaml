@@ -1,0 +1,9 @@
+chunk_size: 16
+knowledge_ffns: null
+copy_heads: null
+beta: null
+alpha: null
+top_n: null
+top_k: null
+n_trials: 1000
+batch_size: 1

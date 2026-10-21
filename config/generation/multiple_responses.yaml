@@ -1,0 +1,5 @@
+num_return_sequences: 5
+do_sample: True
+max_new_tokens: 512
+temperature: 1.0
+batch_size: 1
