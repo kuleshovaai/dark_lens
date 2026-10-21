@@ -1,1 +1,1 @@
-The code will be uploaded soon.
+This repository contains the code for our paper "What LLMs Do In the Shadows: Reading Context Reliance from the Unembedding Dark Space". The scripts for the "Empirical Study" section are in the `scripts/` folder, and the implementations of the baselines and DarkLens are in `src/`.
